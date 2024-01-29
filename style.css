@@ -32,3 +32,8 @@ h3,
   border-radius: 8px;
   cursor: pointer;
 }
+
+.color1,
+.color2 {
+  cursor: pointer;
+}
